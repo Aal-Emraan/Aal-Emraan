@@ -1,7 +1,8 @@
 ![Front End Web Developer](https://i.ibb.co/jwJrhQB/github.jpg)
 
-# Hi there 👋, my name is Aal Emraan
-#### Front End Web Developer
+### Hi there 👋
+# My name is Aal Emraan
+## Front End Web Developer
 
 
 I'm a passionate Frontend Web Developer who makes interactive Websites to make webpages look and feel awesome and user friendly. Will be Full Stack Web Developer soon because I'm learning MERN Stack. I also have beginner level knowledge of Python Programming. Interested to learn Machine Learning and Artificial Intelligence with Python.

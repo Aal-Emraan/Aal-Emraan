@@ -1,6 +1,7 @@
+### Hi there 👋
 ![Front End Web Developer](https://i.ibb.co/jwJrhQB/github.jpg)
 
-### Hi there 👋
+
 # My name is Aal Emraan
 ## Front End Web Developer
 
@@ -20,7 +21,15 @@ Skills: HTML / CSS ( + Bootstrap, TailwindCSS) / JavaScript (ES6) / React.js (+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aal-Emraan)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aal-Emraan)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aal-emraan-538229225/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100006867285030)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16849197/aal-emraan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCMWCYz7LPD8rnBjSSM2jdcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csswizardry.svg' alt='csswizardry' height='40'>](https://cssbattle.dev/player/aal_emraan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aal-Emraan)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aal-emraan-538229225/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100006867285030)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16849197/aal-emraan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCMWCYz7LPD8rnBjSSM2jdcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csswizardry.svg' alt='csswizardry' height='40'>](https://cssbattle.dev/player/aal_emraan) 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aal-emraan-538229225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aal-emraan-538229225" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16849197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16849197" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/profile.php?id=100006867285030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100006867285030" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmwcyz7lpd8rnbjssm2jdcq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmwcyz7lpd8rnbjssm2jdcq" height="30" width="40" /></a>
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aal-Emraan&show_icons=true&count_private=true)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aal-Emraan)](https://github.com/ryo-ma/github-profile-trophy)

@@ -34,9 +34,9 @@ I'm a passionate Frontend Web Developer who makes interactive Websites to make w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aal-Emraan)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aal-Emraan)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aal-Emraan&count_private=true&show_icons=true&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aal-Emraan&show_icons=true&count_private=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aal-Emraan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aal-Emraan)  
 

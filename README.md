@@ -15,16 +15,17 @@ Skills: HTML / CSS ( + Bootstrap, TailwindCSS) / JavaScript (ES6) / React.js (+ 
 - 🤔 I’m looking for help with Open Source Projects 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Developer.aalemraan@gmail.com 
-- ⚡ Fun fact: I'm also a self thought Photographer, Videographer and I like to play Video games. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aal-Emraan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aal-emraan-538229225/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100006867285030)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16849197/aal-emraan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCMWCYz7LPD8rnBjSSM2jdcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csswizardry.svg' alt='csswizardry' height='40'>](https://cssbattle.dev/player/aal_emraan)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aal-Emraan)](https://github.com/ryo-ma/github-profile-trophy)
+- ⚡ Fun fact: I'm also a self taught Photographer, Videographer and I like to play Video games 😀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aal-Emraan)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aal-Emraan)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aal-emraan-538229225/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100006867285030)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16849197/aal-emraan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCMWCYz7LPD8rnBjSSM2jdcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csswizardry.svg' alt='csswizardry' height='40'>](https://cssbattle.dev/player/aal_emraan)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aal-Emraan&show_icons=true&count_private=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aal-Emraan)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aal-Emraan)  
 
